@@ -311,7 +311,8 @@
 /* Forth Slide */
 .demo-1 .bg-4 .sl-slide-inner,
 .demo-1 .bg-4 .sl-content-slice {
-	background: #5bc2ce;
+	background: url('../images/8.jpg');
+	background-size: cover;
 }
 
 .demo-1 .bg-4 .deco {
@@ -336,7 +337,8 @@
 /* Fifth Slide */
 .demo-1 .bg-5 .sl-slide-inner,
 .demo-1 .bg-5 .sl-content-slice {
-	background: #ffeb41;
+	background: url('../images/9.jpg');
+	background-size: cover;
 }
 
 .demo-1 .bg-5 .deco {
